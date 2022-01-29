@@ -56,14 +56,14 @@ Let's connect 👨‍💻 and forge the future together.😁✌
       <img align="left" src="https://github-readme-stats.vercel.app/api?username=benyou1969&show_icons=true&theme=dracula" />
     </td>
     <td align="center">
-      <a href="https://benyou.me">
+      <a href="https://www.linkedin.com/in/jefry-jermain-lópez-andino-91bb29122">
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
         <img src="https://github.com/benyou1969/benyou1969/blob/master/globe.gif?raw=true" />
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
         <br>
-        <strong>Visit my personal website </strong>
+        <strong>Visit my linkedin </strong>
     </td>
   </tr>
 </table>
