@@ -1,7 +1,12 @@
+# <img src="public/favicon.svg" alt="atom" height="24"> adamalston<span></span>.com &middot; ![CI Workflow](https://github.com/adamalston/v2/actions/workflows/ci.yml/badge.svg) [![Netlify status](https://img.shields.io/netlify/332bbd91-59b7-4091-8781-6f41330399b4)](https://app.netlify.com/sites/adamalston/deploys)
 
-[![Header](https://github.com/JermainLopez/Jermain Lopez/raw/master/profile.gif)](https://www.adamalston.com/)
+The second iteration of [adamalston.com](https://www.adamalston.com) built using [React](https://reactjs.org) and hosted on [Netlify](https://www.netlify.com).
 
-##### Hi, I'm Adam:
+Previous iteration: [v1](https://github.com/adamalston/v1)
+
+<img float="left" height="370" src="images/desktop.png" alt="Desktop Preview" role="img" aria-label="desktop screenshot"> <img align="right" height="370" src="images/mobile.png" alt="Mobile Preview" role="img" aria-label="mobile screenshot">
+
+##### Hi, I'm Jermain Lopez:
 
 - 🎓Recent computer science graduate from UNC - Chapel Hill
 - :test_tube: Finishing up my research in cybersecurity and preparing to make the industry transition
