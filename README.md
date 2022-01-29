@@ -52,7 +52,7 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 
 **Check the Repositories and don't forget to give a star.** 👇
 
-:star: From [Jermain Lopez](https://github.com/Souravdey777)
+:star: From [Jermain Lopez](https://www.facebook.com/jermain.lopez)
 
 [website]: https://github.com/JermainLopez
 [youtube]: https://www.youtube.com/channel/UCf5Z1IrR5dZPXLaK7Q2DHeA
