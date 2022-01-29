@@ -45,7 +45,6 @@ Here are some ideas to get you started:
 ### You can find in me in the web 🌍
 [<img align="left" alt="JermainLopez" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="JermainLopez | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
-[<img align="left" alt="JermainLopez | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JermainLopez | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JermainLopez | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
@@ -53,11 +52,9 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 
 **Check the Repositories and don't forget to give a star.** 👇
 
-:star: From [Souravdey777](https://github.com/Souravdey777)
+:star: From [Jermain Lopez](https://github.com/Souravdey777)
 
-[website]: https://souravdey777.github.io/Portfolio/
-[twitter]: https://twitter.com/Souravdey777
-[youtube]: https://youtube.com/
-[instagram]: https://www.instagram.com/souravdey777/
+[website]: https://github.com/JermainLopez
+[youtube]: https://www.youtube.com/channel/UCf5Z1IrR5dZPXLaK7Q2DHeA
+[instagram]: https://www.instagram.com/jermain_lopez/
 [linkedin]: https://www.linkedin.com/in/jefry-jermain-lópez-andino-91bb29122
-[medium]: https://medium.com/@Souravdey777/
