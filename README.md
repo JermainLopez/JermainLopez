@@ -1,10 +1,10 @@
 
 ##### Hi, I'm Jermain Lopez:
 
-- 🎓Recent computer science graduate from UNC - Chapel Hill
-- :test_tube: Finishing up my research in cybersecurity and preparing to make the industry transition
-- 🪐 Looking forward to global net zero, Mars (& the rest of space), and nuclear fusion
-- :speech_balloon: Ask me about accessibility, cybersecurity, full-stack, web, or literally anything!
+- 🎓I am a student at Brigham Young University.
+- :test_tube: I am an honest, cooperative, and persevering person.
+- 🪐 I am looking to be part of a great project.
+- :speech_balloon: Ask me about anything. I'll be willing to talk to you!
 - :mailbox: You can reach me with the links below
 
 
