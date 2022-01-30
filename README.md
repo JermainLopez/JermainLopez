@@ -1,5 +1,5 @@
 
-##### Hi, I'm Jermain Lopez:
+# Hi, I'm Jermain Lopez:
 
 - 🎓I am a student at Brigham Young University.
 - :test_tube: I am an honest, cooperative, and persevering person.
