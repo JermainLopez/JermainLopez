@@ -1,10 +1,3 @@
-# <img src="public/favicon.svg" alt="atom" height="24"> adamalston<span></span>.com &middot; ![CI Workflow](https://github.com/adamalston/v2/actions/workflows/ci.yml/badge.svg) [![Netlify status](https://img.shields.io/netlify/332bbd91-59b7-4091-8781-6f41330399b4)](https://app.netlify.com/sites/adamalston/deploys)
-
-The second iteration of [adamalston.com](https://www.adamalston.com) built using [React](https://reactjs.org) and hosted on [Netlify](https://www.netlify.com).
-
-Previous iteration: [v1](https://github.com/adamalston/v1)
-
-<img float="left" height="370" src="images/desktop.png" alt="Desktop Preview" role="img" aria-label="desktop screenshot"> <img align="right" height="370" src="images/mobile.png" alt="Mobile Preview" role="img" aria-label="mobile screenshot">
 
 ##### Hi, I'm Jermain Lopez:
 
@@ -100,3 +93,7 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 [youtube]: https://www.youtube.com/channel/UCf5Z1IrR5dZPXLaK7Q2DHeA
 [instagram]: https://www.instagram.com/jermain_lopez/
 [linkedin]: https://www.linkedin.com/in/jefry-jermain-lópez-andino-91bb29122
+
+---
+ ### Profile Views :<br>
+  <img src="https://profile-counter.glitch.me/shrannyobasu/count.svg" />
